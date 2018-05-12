@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35410'
     url: http://www.gutenberg.org/2009/agents/35410
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31691#The-Bacillus-of-Long-Life--13-A-Manual-of-the-Preparation-and-Souring-of-Milk-for-Dietary-Pur_
 gutenberg_bookshelf:
 - Technology
 - Cookery
