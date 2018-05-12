@@ -1,0 +1,35 @@
+_repo: The-Bacillus-of-Long-Life--13-A-Manual-of-the-Preparation-and-Souring-of-Milk-for-Dietary-Pur__31691
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Douglas, Loudon M.
+    alias: Douglas, Loudon Macqueen
+    birthdate: 1864
+    deathdate: 1944
+    gutenberg_agent_id: '35410'
+    url: http://www.gutenberg.org/2009/agents/35410
+description: ''
+gutenberg_bookshelf:
+- Technology
+- Cookery
+gutenberg_issued: '2010-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31691'
+  lccn: '11029407'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RM'
+- !lcsh 'Fermented milk'
+- !lcsh 'Longevity'
+title: "The Bacillus of Long Life\r\nA Manual of the Preparation and Souring of Milk\
+  \ for Dietary Purposes, Together with an Historical Account of the Use of Fermented\
+  \ Milks, from the Earliest Times to the Present Day, and Their Wonderful Effect\
+  \ in the Prolonging of Human Existence"
+url: http://www.gutenberg.org/ebooks/31691
